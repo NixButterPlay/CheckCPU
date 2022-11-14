@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\VirusTest\source\repos\CheckCPULib\CheckCPULib\dllmain.cpp(27,15): warning C4101: 'cpuid_3': unreferenced local variable
+     Creating library C:\Users\VirusTest\source\repos\CheckCPULib\Debug\CheckCPULib.lib and object C:\Users\VirusTest\source\repos\CheckCPULib\Debug\CheckCPULib.exp
+  CheckCPULib.vcxproj -> C:\Users\VirusTest\source\repos\CheckCPULib\Debug\CheckCPULib.dll
